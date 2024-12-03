@@ -362,7 +362,7 @@ tzlocal @ file:///Users/ec2-user/ci_py311/tzlocal_1678379414116/work
 uc-micro-py @ file:///Users/ec2-user/ci_py311/uc-micro-py_1678394873457/work
 ujson @ file:///Users/ec2-user/ci_py311/ujson_1678325349324/work
 Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
-urllib3==2.1.0
+urllib3==2.0.7
 validators @ file:///tmp/build/80754af9/validators_1612286467315/work
 w3lib @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_998i5462u5/croot/w3lib_1708642429208/work
 watchdog @ file:///Users/ec2-user/ci_py311/watchdog_1678395046770/work
